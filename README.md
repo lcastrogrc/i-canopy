@@ -11,13 +11,12 @@ It is provided to facilitate **reviewer access** and to support **reproducibilit
 
 ## Contents
 - **/data/** — Raw and processed datasets referenced in the paper  
-- **/scripts/** — Code for data analysis and figure generation  
 
 ---
 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone git@github.com:lcastrogrc/i-canopy.git
+   cd i-canopy
 
