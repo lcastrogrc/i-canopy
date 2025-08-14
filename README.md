@@ -1,7 +1,7 @@
 # I-Canopy: Data and Scripts for Review
 
 ## Overview
-This repository contains the datasets (raw and processed) and scripts supporting the manuscript:
+This repository contains the datasets raw and processed supporting the manuscript:
 
 > *Lorena Castro Garcia et al., "I-Canopy: A Resilient IoT Platform for Adaptive Environmental Monitoring at the Edge" (submitted for review to *Smart Agricultural Technology*, 2025).*
 
